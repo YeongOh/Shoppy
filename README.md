@@ -1,5 +1,7 @@
 # Shoppy
 
+deployed at https://earnest-choux-5c3d39.netlify.app/
+
 simple shopping website
 
 functions:
@@ -12,3 +14,4 @@ react icons
 react router
 tailwind
 firebase
+cloudinary
