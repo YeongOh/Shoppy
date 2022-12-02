@@ -12,6 +12,9 @@ can add a product if the account is verified as admin
 
 add a product to the cart
 
+
+# depedencies
+
 react query
 
 react icons
